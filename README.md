@@ -34,9 +34,11 @@ function area(raio) {
 console.log(area(2));
 ```
 
+<br>
 
-- - -
+---
 
+<br>
 
 ## **Exercício 2**
 
