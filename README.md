@@ -35,7 +35,7 @@ console.log(area(2));
 ```
 
 
----
+- - -
 
 
 ## **Exercício 2**
