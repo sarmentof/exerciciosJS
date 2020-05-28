@@ -1,7 +1,5 @@
 # Exercícios realizados no Santander Coders by Digital House
 
-v 0.01
-
 ## **Exercício 1**
 
 Vamos criar uma função `perimetro` que nos diga o perímetro de um círculo quando damos a ele o `raio` como parâmetro.
