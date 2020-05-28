@@ -82,6 +82,8 @@ $ possoIrAoBanco("Sábado", 11);
 false // é fim de semana
 ```
 
+<br>
+
 **Solução:**
 
 ```Javascript
