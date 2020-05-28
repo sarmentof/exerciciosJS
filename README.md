@@ -45,6 +45,8 @@ console.log(area(2));
 Escreva a função `eNumeroDaSorte` que, recebendo um número, diz a se é um número da sorte. <br>
 Lembre-se de que o número deve obedecer às três condições mencionadas.<p>
 
+<br>
+
 > Seu desafio adicional será: **NÃO use o if.**
 
 <br>
