@@ -12,8 +12,8 @@ _area = π * raio * raio;_
 
 <br>
 
-> #### Dica: 
-> 
+> #### Dica:
+>
 > _Lembre-se de usar o valor de 3.14 no lugar do π_
 
 <br>
@@ -122,8 +122,6 @@ true
 > #### Dica:
 >
 > _Tenha em mente que a idade mínima para se aposentar para mulheres é 60 anos, >enquanto que para homens é 65. Em ambos os casos, você deve ter pelo menos 30 >anos de contribuição._
->
-> <br>
 
 <br>
 
@@ -161,7 +159,6 @@ false // não pode subir
 
 <br>
 
-
 > #### Regras:
 >
 > - Atingir a altura mínima de 1,5 m (ou 1,2 m, se acompanhada por um adulto)
@@ -193,8 +190,11 @@ function podeSubir(alturaPessoa, vemComCompania, temProblemaCardiaco) {
 
 Defina a função `medalhaSegundoOPosto` que recebe o posto como parâmetro e retorna um texto de acordo com o parâmetro.
 
-> **_Dica:_** 
-> Nessa função você pode usar vários if.
+<br>
+
+> #### Dica:
+>
+> _Nessa função você pode usar vários if._
 
 <br>
 
@@ -247,14 +247,13 @@ return 'Continue participando';
 
 ## **Exercício 7**
 
-Execute uma função chamada `passandoPelosPares()` que mostra pelo console **aqui eu tenho o valor de x** para cada valor **PAR** que percorra i de 0 até e inclusive 6.
-
+Execute uma função chamada `passandoPelosPares()` que mostra pelo console **aqui eu tenho o valor de x** para cada valor **PAR** que percorra i de 0 até e inclusive 6.<br>
 Lembre-se que como vamos passar apenas pelos pares a repetição deve ocorrer 4 vezes, pois o objetivo é imprimir apenas os números pares.
 
 <br>
 
-> **_Dica:_**
-> Para saber se um número é par, usamos o operador % (módulo) que me retorna o resto da divisão de um número por outro. Por exemplo: 11% 5 -> retorna o resto da divisão 11 por 5. Neste caso retorna 1.
+> #### Dica:
+> _Para saber se um número é par, usamos o operador % (módulo) que me retorna o resto da divisão de um número por outro. Por exemplo: 11% 5 -> retorna o resto da divisão 11 por 5. Neste caso retorna 1._
 
 <br>
 
