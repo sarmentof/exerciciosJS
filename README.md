@@ -253,6 +253,7 @@ Lembre-se que como vamos passar apenas pelos pares a repetição deve ocorrer 4 
 <br>
 
 > #### Dica:
+>
 > _Para saber se um número é par, usamos o operador % (módulo) que me retorna o resto da divisão de um número por outro. Por exemplo: 11% 5 -> retorna o resto da divisão 11 por 5. Neste caso retorna 1._
 
 <br>
@@ -275,7 +276,8 @@ function passandoPelosPares() {
 
 ## **Exercício 8**
 
-Escreva uma função `somar5MoedasDe25Centavos`, que adiciona o valor de 5 moedas de 0,25 centavos e retorna o resultado.<p>
+Escreva uma função `somar5MoedasDe25Centavos`, que adiciona o valor de 5 moedas de 0,25 centavos e retorna o resultado.
+<br><br>
 
 >**Por exemplo:**
 >
@@ -283,9 +285,12 @@ Escreva uma função `somar5MoedasDe25Centavos`, que adiciona o valor de 5 moeda
 >$ somar5MoedasDe25Centavos()
 >1.25
 >```
+> <br>
 
+<br>
 
 **Solução:**
+
 ```Javascript
 function somar5MoedasDe25Centavos() {
   var moedaDe25 = 0;
