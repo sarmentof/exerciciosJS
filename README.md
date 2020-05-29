@@ -12,9 +12,9 @@ _area = π * raio * raio;_
 
 <br>
 
->
-> _**Dica:** Lembre-se de usar o valor de 3.14 no lugar do π_
->
+> #### Dica: 
+> 
+> _Lembre-se de usar o valor de 3.14 no lugar do π_
 
 <br>
 
