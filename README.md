@@ -266,3 +266,34 @@ function passandoPelosPares() {
     }
 }
 ```
+
+<br>
+
+---
+
+<br>
+
+## **Exercício 8**
+
+Escreva uma função `somar5MoedasDe25Centavos`, que adiciona o valor de 5 moedas de 0,25 centavos e retorna o resultado.<p>
+
+>**Por exemplo:**
+>
+>```bash
+>$ somar5MoedasDe25Centavos()
+>1.25
+>```
+
+
+**Solução:**
+```Javascript
+function somar5MoedasDe25Centavos() {
+  var moedaDe25 = 0;
+
+  for (var i = 0; i < 5; i++) {
+    moedaDe25 += 0.25;
+  }
+
+  return moedaDe25
+}
+```
