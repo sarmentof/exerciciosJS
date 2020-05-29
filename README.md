@@ -161,14 +161,11 @@ false // não pode subir
 
 <br>
 
-> <br>
->
-> _**Regras:**_
+
+> #### Regras:
 >
 > - Atingir a altura mínima de 1,5 m (ou 1,2 m, se acompanhada por um adulto)
 > - Não ter qualquer problema cardíaco
->
-> <br>
 
 <br>
 
@@ -215,16 +212,12 @@ $ medalhaSegundoOPosto(5)
 
 <br>
 
-> <br>
->
-> _**Regras:**_
+> #### Regras:
 >
 > - primeiro lugar: corresponde "ouro"
 > - segundo lugar: corresponde "prata"
 > - terceiro lugar: corresponde "bronze"
 > - outros lugares: corresponde "Continue participando"
->
-> <br>
 
 <br>
 
