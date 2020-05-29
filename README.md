@@ -285,7 +285,6 @@ Escreva uma função `somar5MoedasDe25Centavos`, que adiciona o valor de 5 moeda
 >$ somar5MoedasDe25Centavos()
 >1.25
 >```
-> <br>
 
 <br>
 
