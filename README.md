@@ -193,7 +193,8 @@ function podeSubir(alturaPessoa, vemComCompania, temProblemaCardiaco) {
 
 Defina a função `medalhaSegundoOPosto` que recebe o posto como parâmetro e retorna um texto de acordo com o parâmetro.
 
-> **_Dica:_** nessa função você pode usar vários if.
+> **_Dica:_** 
+> Nessa função você pode usar vários if.
 
 <br>
 
