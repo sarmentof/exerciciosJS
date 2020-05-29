@@ -237,3 +237,32 @@ if (posto === 3) {
 return 'Continue participando';
 }
 ```
+
+<br>
+
+---
+
+<br>
+
+## **Exercício 7**
+
+Execute uma função chamada `passandoPelosPares()` que mostra pelo console **aqui eu tenho o valor de x** para cada valor **PAR** que percorra i de 0 até e inclusive 6.
+
+Lembre-se que como vamos passar apenas pelos pares a repetição deve ocorrer 4 vezes, pois o objetivo é imprimir apenas os números pares.
+
+<br>
+
+> **_Dica:_**
+> Para saber se um número é par, usamos o operador % (módulo) que me retorna o resto da divisão de um número por outro. Por exemplo: 11% 5 -> retorna o resto da divisão 11 por 5. Neste caso retorna 1.
+
+<br>
+
+```Javascript
+function passandoPelosPares() {
+    for (var i = 0; i <= 6; i++) {
+        if (i % 2 === 0) {
+            console.log("aqui eu tenho o valor de" + " " + i)
+        }
+    }
+}
+```
